@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "bef1d67846cb9eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7216a4b59240adac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.4 - CS50/4.1.1 - Scratch.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2708208386bdfe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7790445054fe718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e1e6e0dff39b7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfb6d3a283770628",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "548ef0eb87323ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "605511d6a96bf065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c1e2c0435c85eb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.4 - CS50/4.1.1 - Scratch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7216a4b59240adac",
+  "lastOpenFiles": [
+    "0.4 - CS50/4.1.1 - Scratch.md",
+    "!.md",
+    "Untitled.md",
+    "0.0 - Introduction.md",
+    "Development/Programming Language/Programming Language.md",
+    "Development/MongoDB.md",
+    "Development/JavaScript.md",
+    "Development/Express.md",
+    "Development/Programming Language.md",
+    "Express.md"
+  ]
+}
