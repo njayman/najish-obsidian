@@ -1,0 +1,1 @@
+A sysem that identifies how many servers are there to serve and distributes traffic among them.
