@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.1 - Development/Networking/Connections.md",
+            "file": "0.6 - Computer Science/System Design/System Design.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1 - Development/Networking/Connections.md",
+                "file": "0.6 - Computer Science/System Design/System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7216a4b59240adac",
   "lastOpenFiles": [
-    "0.1 - Development/Networking/Connections.md",
-    "0.1 - Development/Networking/TCP.md",
-    "Connections.md",
-    "0.4 - CS50/4.1.1 - Scratch.md",
-    "Untitled.md",
-    "0.1 - Development/Networking/UDP.md",
-    "C.md",
-    "0.1 - Development/Programming Language/Programming Language.md",
-    "0.1 - Development/Programming Language/C++.md",
-    "0.1 - Development/Programming Language/JavaScript.md"
+    "0.6 - Computer Science/System Design/System Design.md",
+    "Search Engines.md",
+    "0.6 - Computer Science/System/Node Balancer.md",
+    "Data Warehouse.md",
+    "Messeging and Queues.md",
+    "Logging Service.md",
+    "0.6 - Computer Science/System/Scaling.md",
+    "0.6 - Computer Science/System/Storage/Storage.md",
+    "0.6 - Computer Science/System/Storage/Caching Storage.md",
+    "0.6 - Computer Science/System/Storage/Cloud Storage.md"
   ]
 }
