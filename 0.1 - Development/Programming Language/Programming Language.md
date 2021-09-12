@@ -1,5 +1,5 @@
 # C/C++
-[[C/C++]] is the first language that I learned in my academia. I have learnt basic data structures and object oriented programming along with all the basics of programming with this language. I wish to go pro-mode with this language in future.
+[[C]] and [[C++]] is the first language that I learned in my academia. I have learnt basic data structures and object oriented programming along with all the basics of programming with this language. I wish to go pro-mode with this language in future.
 
 # SQL
 My first database language
